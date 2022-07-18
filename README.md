@@ -8,3 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/59445273/179506501-cd94e9d4-38c3-44d3-a796-0b6190a2515b.png" height="480">
 
+### [Relative Layout](app/src/main/res/layout/layout_relative.xml)
+
+<img src="https://user-images.githubusercontent.com/59445273/179512859-23857b33-37e1-44a7-9bf6-89cd4871ad16.png" height="480">
+
