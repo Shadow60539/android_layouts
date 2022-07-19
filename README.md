@@ -12,3 +12,7 @@
 
 <img src="https://user-images.githubusercontent.com/59445273/179512859-23857b33-37e1-44a7-9bf6-89cd4871ad16.png" height="480">
 
+### [RecyclerView Adapter](app/src/main/java/com/example/layouts/UserAdapter.kt)
+
+<img src="https://user-images.githubusercontent.com/59445273/179693402-f292534f-0c95-44ed-ac49-fb610354cb52.png" height="480">
+
