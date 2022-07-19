@@ -13,4 +13,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Layouts"
-include ':app'
+include ':recycler_view'
+include ':list_view'
+include ':layouts'
+include ':view_pager'

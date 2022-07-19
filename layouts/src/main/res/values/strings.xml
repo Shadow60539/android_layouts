@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="country">Country</string>
+    <string name="apply">Apply</string>
+    <string name="register">Register</string>
+</resources>
