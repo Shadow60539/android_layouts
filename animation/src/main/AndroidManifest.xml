@@ -10,23 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Layouts">
         <activity
-            android:name=".MoveAnimationActivity"
-            android:exported="true"
-            android:label="@string/title_activity_move_animation"
-            android:theme="@style/Theme.Layouts.NoActionBar">
+            android:name=".MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity
-            android:name=".MainActivity"
-            android:exported="true">
-
-        </activity>
-        <activity android:name=".RevealAnimationActivity" />
     </application>
 
 </manifest>

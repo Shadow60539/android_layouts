@@ -3,24 +3,32 @@ package com.example.animation
 import android.animation.Animator
 import android.animation.AnimatorListenerAdapter
 import android.os.Bundle
+import android.view.LayoutInflater
 import android.view.View
+import android.view.ViewGroup
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.ProgressBar
-import androidx.appcompat.app.AppCompatActivity
+import androidx.fragment.app.Fragment
 
-class RevealAnimationActivity : AppCompatActivity() {
+class RevealAnimationFragment : Fragment() {
     private lateinit var imageView: ImageView
     private lateinit var progressBar: ProgressBar
     private lateinit var button: Button
 
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_reveal_animation)
+    override fun onCreateView(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View? {
+        return inflater.inflate(R.layout.reveal_animation, container, false)
+    }
 
-        imageView = findViewById(R.id.image)
-        progressBar = findViewById(R.id.loading_spinner)
-        button = findViewById<Button?>(R.id.button).apply {
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+        imageView = view.findViewById(R.id.image)
+        progressBar = view.findViewById(R.id.loading_spinner)
+        button = view.findViewById<Button?>(R.id.button).apply {
             setOnClickListener { crossFade() }
         }
     }
