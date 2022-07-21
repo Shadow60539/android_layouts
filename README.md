@@ -14,9 +14,30 @@
 
 ### [RecyclerView Adapter](recycler_view/src/main/java/com/example/layouts/UserAdapter.kt)
 
-<img src="https://user-images.githubusercontent.com/59445273/179693402-f292534f-0c95-44ed-ac49-fb610354cb52.png" height="480">
+https://user-images.githubusercontent.com/59445273/180244336-9805b871-3abf-47a0-97a8-5d62d4fb3f50.mp4
 
 ### [Custom View](custom_view/src/main/java/com/example/custom_view/MyCustomView.kt)
 
-https://user-images.githubusercontent.com/59445273/179995809-beb7c2a1-d620-42ea-a02c-e98a5c488eea.mp4
+https://user-images.githubusercontent.com/59445273/180243794-165408f8-8f22-4ef4-9052-d7e2186896c6.mp4
+
+### [Motion Layout](animation/src/main/res/layout/motion_layout.xml)
+
+https://user-images.githubusercontent.com/59445273/180237792-57047dbf-b6bf-4772-9dca-c47bdd5f182f.mp4
+
+### [Transition](animation/src/main/java/com/example/animation/MainActivity.kt)
+
+https://user-images.githubusercontent.com/59445273/180241578-6e80cbf3-6016-4f11-9d3e-364b1cf308b5.mp4
+
+### [Reveal Animation](animation/RevealAnimationFragment.kt)
+
+https://user-images.githubusercontent.com/59445273/180241830-5a8539f8-f18c-4b6e-8661-db2aebbff7b1.mp4
+
+### [Translation Animation](animation/MoveAnimationFragment.kt)
+
+https://user-images.githubusercontent.com/59445273/180241984-94464ca9-ac54-442a-9297-f1c250a0c837.mp4
+
+
+
+
+
 
