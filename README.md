@@ -14,30 +14,30 @@
 
 ### [RecyclerView Adapter](recycler_view/src/main/java/com/example/layouts/UserAdapter.kt)
 
-https://user-images.githubusercontent.com/59445273/180244336-9805b871-3abf-47a0-97a8-5d62d4fb3f50.mp4
+https://user-images.githubusercontent.com/59445273/180424210-25906577-0c7f-4638-a985-a0685251f08d.mp4
+
+### [View Pager](view_pager/src/main/java/com/example/view_pager/MainActivity.kt)
+
+https://user-images.githubusercontent.com/59445273/180424618-06002e26-55c3-45c8-9336-a19a3d17eb0f.mp4
 
 ### [Custom View](custom_view/src/main/java/com/example/custom_view/MyCustomView.kt)
 
-https://user-images.githubusercontent.com/59445273/180243794-165408f8-8f22-4ef4-9052-d7e2186896c6.mp4
+https://user-images.githubusercontent.com/59445273/180424281-dc2d00d1-a360-4d13-86a6-869e8b8595cd.mp4
 
 ### [Motion Layout](animation/src/main/res/layout/motion_layout.xml)
 
-https://user-images.githubusercontent.com/59445273/180237792-57047dbf-b6bf-4772-9dca-c47bdd5f182f.mp4
+https://user-images.githubusercontent.com/59445273/180424303-0293380e-2ca6-4549-aedd-af6e07fec8d1.mp4
 
 ### [Transition](animation/src/main/java/com/example/animation/MainActivity.kt)
 
-https://user-images.githubusercontent.com/59445273/180241578-6e80cbf3-6016-4f11-9d3e-364b1cf308b5.mp4
+https://user-images.githubusercontent.com/59445273/180424325-dd7aec13-db6c-47b2-a093-2fed33afb2c0.mp4
 
-### [Reveal Animation](animation/RevealAnimationFragment.kt)
+### [Reveal Animation](animation/src/main/java/com/example/animation/RevealAnimationFragment.kt)
 
-https://user-images.githubusercontent.com/59445273/180241830-5a8539f8-f18c-4b6e-8661-db2aebbff7b1.mp4
+https://user-images.githubusercontent.com/59445273/180424351-d1efe34f-5e3e-419e-a49e-9607007149e7.mp4
 
-### [Translation Animation](animation/MoveAnimationFragment.kt)
+### [Move Animation](animation/src/main/java/com/example/animation/MoveAnimationFragment.kt)
 
-https://user-images.githubusercontent.com/59445273/180241984-94464ca9-ac54-442a-9297-f1c250a0c837.mp4
-
-
-
-
+https://user-images.githubusercontent.com/59445273/180425033-8ce28b34-7794-45a7-bca3-7191dcecd79e.mp4
 
 
